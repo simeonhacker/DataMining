@@ -1,0 +1,7 @@
+actualPos = Position des Schweisskopfes
+schweissnahtID = Art der Schweissnaht
+
+Ganzen Satz mal analysieren, je nach dem könen anomalien 
+
+Was bedeuted es, wenn der Befehl = 'Null' ist?
+
